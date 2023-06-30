@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sourav-m619
+- 👋 Hi, I’m Sourav Mandal
 - 👀 I’m interested in devops and cloud engineering
 - 🌱 I’m currently learning Kubernetes, Docker, Ansible.
 - 💞️ I’m looking to collaborate on Devops project
